@@ -1,0 +1,31 @@
+.arancio{
+     color:rgba(11, 6, 6, 0.443);font-family: fantasy;text-align: center;
+    }
+body{
+    background-color:rgb(232, 141, 165)
+}
+        #film{
+         padding-left: 442;
+            
+        }
+        #paragrafi{
+            font-family:fantasy; font-style: normal; font-size: 150%; font-weight: bold; color:rgb(196, 34, 85)
+        }
+#spiegazione{
+    color: rgba(12, 8, 8, 0.402);
+    font-family: fantasy;text-align: center;font-size: 120%;font: weight:caption;
+}
+#donnie{padding-left: 630;
+}
+    #naruto{padding-left: 630
+        ;}
+#trono{
+    padding-left: 630; 
+}
+#saitama{
+    padding-left: 630;
+}
+#about{
+    
+    padding-left: 620;
+}
